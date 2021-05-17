@@ -10,13 +10,6 @@ namespace OraxLearnUnity.DebugLog
 
         void Update() => Debug.Log(_DebugLogTextUpdate);
 
-         private void test( ) {
-
-
-           Debug.Log($"<color=red>Color Red {_DebugLogTextStart} :</color>");
-
-
-        }
 
         
     }
